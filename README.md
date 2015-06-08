@@ -8,9 +8,10 @@ Prerequisites
 
 2. Clone [this repo](https://github.com/kwbeam/effective-py)
 
-3. Create a conda environment
+3. Create and activate the conda environment
 
         $ conda env create
+        $ source activate effective-py
 
 4. Run the iPython notebook server
 
