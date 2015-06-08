@@ -5,16 +5,19 @@ Prerequisites
 ---
 
 1. Install [miniconda 2.7](http://conda.pydata.org/miniconda.html)
+
 2. Clone [this repo](https://github.com/kwbeam/effective-py)
+
 3. Create a conda environment
 
-    $ conda env create
+        $ conda env create
 
 4. Run the iPython notebook server
 
-    $ ipython notebook --notebook-dir=notebooks
+        $ ipython notebook --notebook-dir=notebooks
 
 5. Play with the notebooks.
+
 6. Add good stuff to the notebooks or create new ones!
 
 License
